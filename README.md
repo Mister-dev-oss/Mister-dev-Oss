@@ -11,7 +11,6 @@ I’ve been programming for about <b>one year</b>, and every day I work to impro
 - 🔎 Interested in AI, backend development, and software engineering  
 - 💻 I like understanding how things work “under the hood”  
 - 🧠 Growth–oriented mindset  
-- 🎯 Goal: become a solid and competent developer
 
 ---
 
